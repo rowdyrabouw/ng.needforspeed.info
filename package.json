@@ -1,6 +1,6 @@
 {
-  "name": "nfs",
-  "version": "0.0.0",
+  "name": "ng.needforspeed.info",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
